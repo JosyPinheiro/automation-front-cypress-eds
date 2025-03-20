@@ -5,6 +5,7 @@ class login {
         useremail: () => cy.get("#=email"),
     }
 
+    //Metodo de escrita no campo de usuário
     imputCampEmail()
         {
             this.element.useremail().type()

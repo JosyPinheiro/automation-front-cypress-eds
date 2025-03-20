@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "cypress:open":"cypress open"
+    "cypress:open": "cypress open"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/rodrigoarriel56/automation-front-cypress-eds#readme",
   "devDependencies": {
-    "cypress": "^14.1.0"
+    "cypress": "^14.2.0"
   }
 }
